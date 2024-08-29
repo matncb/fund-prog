@@ -1,3 +1,3 @@
 # Fundamentos da Programação de Computadores
 
-Repositório destinado a resolver os exercícios requisitados pela disciplina
+Repository designed to solve the exercises required by the classes.
